@@ -763,12 +763,12 @@ progress {
 }
 @media (min-width: 1200px) {
   .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1140px;
+    max-width: 1139px;
   }
 }
 @media (min-width: 1400px) {
   .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1320px;
+    max-width: 1140px;
   }
 }
 :root {
@@ -13460,11 +13460,6 @@ textarea.form-control-lg {
   background-color: #0dcaf0;
 }
 
-.purchase-header {
-  height: 180px;
-  background-size: none;
-}
-
 .btn-shadow {
   -webkit-box-shadow: 1px 3px 3px #6c757d;
           box-shadow: 1px 3px 3px #6c757d;
@@ -13478,5 +13473,4 @@ textarea.form-control-lg {
 
 .purchase-header {
   height: 180px;
-  background-size: none;
 }/*# sourceMappingURL=all.css.map */
